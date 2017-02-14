@@ -3,7 +3,7 @@ Template for creating open source JS projects
 
 To use this template, clone this repo or download the .zip file, then run:
 
-    yarn init // provide name, etc.e
+    yarn init // provide name, etc.
 
 Install all the dependencies:
 
