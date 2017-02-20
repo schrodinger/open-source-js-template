@@ -11,7 +11,7 @@ Install all the dependencies:
 
 Start the server and point your browser at localhost:3000
 
-    yarn run start
+    yarn run dev
 
 Code!
 
